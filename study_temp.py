@@ -13,7 +13,7 @@ print("Connected to Wifi.")
 mqtt_server = 'io.adafruit.com'
 mqtt_port = 1883 # non-SSL port
 mqtt_user = 'semako123' #Adafruit ID
-mqtt_password = 'aio_euZi80v6kBkkNu9o6eFhz1aD886X' # Under Keys
+mqtt_password = 'SECRET_KEY' # Under Keys
 mqtt_topic1 = 'semako123/feeds/study_temp' # Under "Feed info"
 mqtt_topic2 = 'semako123/feeds/reg' # Under "Feed info"
 mqtt_topic3 = 'semako123/feeds/cold' # Under "Feed info"
